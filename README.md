@@ -4,9 +4,9 @@
 
 Hi! This is my kernel patch for **full natively support the docker**. PI 4 LOS 19.1 Android. Tested in 4G , 8G worked fine.
 
-based on
-LineageOS 19 (Android 12L)​
-for Raspberry Pi 4​
+based on 
+LineageOS 19 (Android 12L) 
+for Raspberry Pi 4 
 September 23, 2022
 
 common-android12-5.10-lts
