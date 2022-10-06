@@ -1,5 +1,5 @@
 # Raspberry-Pi-4-LOS-19.1-Docker
-Kernel -- Full natively support the Docker in Raspberry Pi 4​ LOS 19.1 Android.
+**Kernel -- Full natively support the Docker in Raspberry Pi 4​ LOS 19.1 Android.**
 
 
 Hi! This is my kernel patch for **full natively support the docker**. PI 4 LOS 19.1 Android. Tested in 4G , 8G worked fine.
