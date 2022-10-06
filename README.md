@@ -20,9 +20,9 @@ can find in
 
 **=====Usage=====**
 
+0.install **lineage-19.1-20220923-UNOFFICIAL-KonstaKANG-rpi4.zip**
 
-
-1.unzip and replace the files in your sdcard **/boot/...**
+1.unzip **boot.zip** and replace the files in your sdcard **/boot/...**
 
 2.reboot and install **termux**
 
